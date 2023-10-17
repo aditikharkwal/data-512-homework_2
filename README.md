@@ -54,6 +54,10 @@ Analysis is produced in the form of data tables. We produced six total tables, t
 6) Census divisions by high quality coverage: Rank ordered list of US census divisions (in descending order) by high quality articles per capita.
 
 
+# Research Implications
+
+In conducting this assignment, I embarked on a comprehensive exploration of bias within data, using Wikipedia articles as the primary source. The focal point of the analysis was the coverage of cities across different US states, coupled with an evaluation of the quality of articles pertaining to these cities. To accomplish this, I integrated datasets containing Wikipedia articles and state populations, and employed the ORES machine learning service for article quality estimation.
+
 
 
 

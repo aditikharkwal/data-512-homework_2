@@ -64,6 +64,6 @@ Another notable bias arose from the varying quality of articles related to major
 
 Additionally, a bias was observed in the naming conventions of articles for major cities. Many major cities lacked state names in their titles, necessitating additional steps for accurate classification and analysis. This bias could potentially lead to misclassification or oversight, impacting the overall assessment of article quality.
 
-The results of this analysis suggest that (English) Wikipedia, while a valuable data source, is not without its limitations and biases. It serves as a rich repository of information, covering a wide array of topics, including cities in different US states. However, it is essential to approach Wikipedia data with a critical eye and an awareness of potential biases.
+The results of this analysis suggest that (English) Wikipedia, while a valuable data source, is not without its limitations and biases. It serves as a rich repository of information, covering a wide array of topics, including cities in different US states. However, it is essential to approach Wikipedia data with a critical eye and an awareness of potential biases. Wikipedia is a valuable data source, but researchers must approach it with an understanding of its inherent biases. Careful consideration of population influence, article quality, and naming conventions is crucial for extracting accurate and reliable information. Additionally, leveraging tools like the ORES model can enhance the reliability and scalability of data extraction efforts.
 
 

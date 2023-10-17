@@ -58,7 +58,12 @@ Analysis is produced in the form of data tables. We produced six total tables, t
 
 In conducting this assignment, I embarked on a comprehensive exploration of bias within data, using Wikipedia articles as the primary source. The focal point of the analysis was the coverage of cities across different US states, coupled with an evaluation of the quality of articles pertaining to these cities. To accomplish this, I integrated datasets containing Wikipedia articles and state populations, and employed the ORES machine learning service for article quality estimation.
 
+During the data processing and analysis, several potential sources of bias were identified. One prominent bias stemmed from the influence of population centers on per capita rankings. Larger cities tend to have more extensive coverage on Wikipedia due to their higher population and greater historical significance. This led to an inherent bias towards urban areas, potentially overshadowing the contributions and significance of smaller cities and rural communities.
 
+Another notable bias arose from the varying quality of articles related to major cities. These articles, being subjects of frequent edits and revisions, exhibited a wider range of quality assessments. This could be attributed to the constant influx of information and viewpoints from a diverse set of contributors. Consequently, major cities' articles may require special attention and handling to ensure accurate and reliable content.
 
+Additionally, a bias was observed in the naming conventions of articles for major cities. Many major cities lacked state names in their titles, necessitating additional steps for accurate classification and analysis. This bias could potentially lead to misclassification or oversight, impacting the overall assessment of article quality.
+
+The results of this analysis suggest that (English) Wikipedia, while a valuable data source, is not without its limitations and biases. It serves as a rich repository of information, covering a wide array of topics, including cities in different US states. However, it is essential to approach Wikipedia data with a critical eye and an awareness of potential biases.
 
 

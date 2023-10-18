@@ -8,6 +8,11 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 2) [Wikipedia Content Assessment](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
 3) [Wikimedia API Documentation](https://www.mediawiki.org/wiki/API:Info)
 
+# Code distribution into ipynb files
+
+Step 1-3 are the data collection and cleaning steps which are in the file DataPreparation.ipynb file
+Step 4-6 are the analysis and result steps which are in the file MergingandAnalysis.ipynb
+
 # Steps and associated files to analyze data
 
 <h2> Step 1: Getting the Article, Population and Region Data</h2>
@@ -50,7 +55,7 @@ The analysis consists of calculating total-articles-per-population (a ratio repr
 For this analysis we consider "high quality" articles to be articles that ORES predicted would be in either the "FA" (featured article) or "GA" (good article) classes.
 
 
-# Results
+<h2> Step 6: Result </h2>
 
 1) Top 10 US states by coverage: The 10 US states with the highest total articles per capita (in descending order) .
    

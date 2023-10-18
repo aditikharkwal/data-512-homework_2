@@ -46,12 +46,35 @@ wp_scored_city_articles_by_state.csv
 
 Analysis is produced in the form of data tables. We produced six total tables, that show:
 
+The analysis consists of calculating total-articles-per-population (a ratio representing the number of articles per person)  and high-quality-articles-per-population (a ratio representing the number of high quality articles per person) on a state-by-state and divisional basis. All of these values are “per capita” ratios.
+For this analysis we consider "high quality" articles to be articles that ORES predicted would be in either the "FA" (featured article) or "GA" (good article) classes.
+
+
+# Results
+
 1) Top 10 US states by coverage: The 10 US states with the highest total articles per capita (in descending order) .
+   
+![image](https://github.com/aditikharkwal/data-512-homework_2/assets/38849313/058eb4bf-603f-437b-9926-0d2524265102)
+
 2) Bottom 10 US states by coverage: The 10 US states with the lowest total articles per capita (in ascending order) .
+
+![image](https://github.com/aditikharkwal/data-512-homework_2/assets/38849313/7a85d85c-a4bd-4c85-b2af-c9c477403147)
+
 3) Top 10 US states by high quality: The 10 US states with the highest high quality articles per capita (in descending order) .
+
+![image](https://github.com/aditikharkwal/data-512-homework_2/assets/38849313/0d3a11af-b498-4190-b1b1-894e660eb474)
+
 4) Bottom 10 US states by high quality: The 10 US states with the lowest high quality articles per capita (in ascending order).
+
+![image](https://github.com/aditikharkwal/data-512-homework_2/assets/38849313/000c132d-6dd0-4168-a9e2-a41719c4ec9c)
+
 5) Census divisions by total coverage: A rank ordered list of US census divisions (in descending order) by total articles per capita.
+
+![image](https://github.com/aditikharkwal/data-512-homework_2/assets/38849313/576605d7-3521-43d5-80a6-1341fea5d975)
+
 6) Census divisions by high quality coverage: Rank ordered list of US census divisions (in descending order) by high quality articles per capita.
+
+![image](https://github.com/aditikharkwal/data-512-homework_2/assets/38849313/a42f9975-cea1-4644-98b6-125313cbabba)
 
 
 # Research Implications
